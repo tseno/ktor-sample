@@ -284,4 +284,10 @@ data class MyUserPrincipal(val id: Long, val name: String, val profile: String) 
 ```
 
 
+##　ソースコード
 
+https://github.com/tseno/ktor-sample
+
+## 参考
+
+[Kotlin サーバーサイドプログラミング実践開発](https://direct.gihyo.jp/view/item/000000001458)
