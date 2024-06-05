@@ -284,7 +284,7 @@ data class MyUserPrincipal(val id: Long, val name: String, val profile: String) 
 ```
 
 
-##　ソースコード
+## ソースコード
 
 https://github.com/tseno/ktor-sample
 
